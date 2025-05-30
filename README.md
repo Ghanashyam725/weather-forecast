@@ -1,47 +1,4 @@
 # weather-forecast
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Weather Now - Project Documentation</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 2rem;
-      background-color: #f9f9f9;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-  </style>
-</head>
-<body>
-
   <h1>🌦️ Weather Now</h1>
   <p><strong>Weather Now</strong> is a sleek and responsive web application that displays real-time weather conditions and a 5-day forecast for any city worldwide. Built with HTML, CSS, and JavaScript, it fetches weather data from the <a href="https://www.weatherbit.io/" target="_blank">Weatherbit API</a> and dynamically updates the UI based on the current weather conditions.</p>
 
@@ -68,10 +25,6 @@ cd weather-now</code></pre>
   <h3>3. Open in your browser</h3>
   <p>Open <code>index.html</code> directly in a browser or serve using a local server (e.g., Live Server in VSCode).</p>
 
-  <h2>📸 Screenshot</h2>
-  <p><em>Insert your project screenshot here:</em></p>
-  <img src="your-screenshot.png" alt="Weather Now UI Screenshot" width="80%" style="border-radius:10px; border:1px solid #ccc;">
-
   <h2>🛠️ Tech Stack</h2>
   <ul>
     <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
@@ -96,6 +49,3 @@ cd weather-now</code></pre>
     <li><a href="https://www.weatherbit.io/" target="_blank">Weatherbit.io</a> – For providing weather data APIs</li>
     <li>Open source developers and UI inspirations</li>
   </ul>
-
-</body>
-</html>

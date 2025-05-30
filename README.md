@@ -32,15 +32,6 @@ cd weather-now</code></pre>
     <li><strong>Icons:</strong> Weatherbit Static Icon Set</li>
   </ul>
 
-  <h2>✅ To-Do / Improvements</h2>
-  <ul>
-    <li>Add toggle for Celsius ↔ Fahrenheit</li>
-    <li>Add multi-language support</li>
-    <li>Add local storage for last searched city</li>
-    <li>Add more detailed error handling</li>
-    <li>Improve mobile responsiveness</li>
-  </ul>
-
   <h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong>. Feel free to use, modify, and share.</p>
 
